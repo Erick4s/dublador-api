@@ -1,5 +1,6 @@
-fastapi
-uvicorn[standard]
-torch
-torchaudio
-speechbrain
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+torch==2.2.2
+torchaudio==2.2.2
+speechbrain==0.5.16
+python-multipart==0.0.9
